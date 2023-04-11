@@ -1,0 +1,163 @@
+.body{
+    position: relative;
+width: 2209px;
+height: 1467px;
+}
+
+.id{
+    position: absolute;
+    width: 77px;
+    height: 46px;
+    left: 111px;
+    top: 170px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    
+    color: #000000;
+}
+
+.retid{
+    position: absolute;
+    width: 89px;
+    height: 74px;
+    left: 111px;
+    top: 304px;
+    
+    background: #008CDB;
+    border-radius: 414px;
+}
+
+.senha{
+    position: absolute;
+    width: 127px;
+    height: 55px;
+    left: 1214px;
+    top: 170px  ;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    
+    color: #000000;
+}
+
+.email{
+        position: absolute;
+        width: 98px;
+        height: 52px;
+        left: 751px;
+        top: 170px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 36px;
+        line-height: 44px
+}
+
+.nome{
+    position: absolute;
+    width: 141px;
+    height: 44px;
+    left: 300px;
+    top: 170px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+}
+
+.retsenha{
+    position: absolute;
+    width: 274px;
+    height: 74px;
+    left: 1143px;
+    top: 304px;
+    
+    background: #008CDB;
+    border-radius: 90px;
+}
+
+.retemail{
+    position: absolute;
+    width: 487px;
+    height: 74px;
+    left: 556px;
+    top: 304px;
+    
+    background: #008CDB;
+    border-radius: 90px;
+}
+
+.retnome{
+    position: absolute;
+    width: 255px;
+    height: 74px;
+    left: 242px;
+    top: 304px;
+    
+    background: #008CDB;
+    border-radius: 90px;
+}
+
+.retprin{
+    position: absolute;
+width: 1900px;
+height: 870px;
+left: 10px;
+top: 70px;
+
+background: #12E4E4;
+
+}
+
+.text {
+    text-align: center;
+    font-size: 46px;
+}
+
+.deletar{
+    position: absolute;
+width: 172px;
+height: 74px;
+left: 1491px;
+top: 304px;
+
+background: #FF0000;
+border-radius: 90px;
+}
+
+.editar{
+    position: absolute;
+width: 185px;
+height: 74px;
+left: 1700px;
+top: 304px;
+
+background: #F6FA37;
+border-radius: 90px;
+
+}
+
+.bnt {
+    position: absolute;
+    margin-left: 58px;
+    margin-top: 25px;
+    text-decoration: none;
+    color: #000000
+}
+.bnt2 {
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 25px;
+    text-decoration: none;
+    color: #000000;
+}
